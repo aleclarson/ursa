@@ -43,7 +43,6 @@
     "test-watch": "npm test -- -w --reporter min"
   },
   "dependencies": {
-    "bindings": "^1.2.1",
     "nan": "^2.3.3"
   },
   "devDependencies": {

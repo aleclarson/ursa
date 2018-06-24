@@ -1,7 +1,7 @@
 {
   "targets": [
     {
-      'target_name': 'ursaNative',
+      'target_name': 'binding',
       'sources': [ 'src/ursaNative.cc' ],
       'conditions': [
         [ 'OS=="win"', {
